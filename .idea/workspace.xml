@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d40d8c3e-9798-4866-99ab-54a6a7aa9110" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2EeTORhfIz4tufMA0QZLrE5G907" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,10 +38,126 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/Users/Rexfall/Documents/Codecademy/Projects/Java/aliens_vs_humans/src/test/java/com/aliens_vs_humans/test",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.aliens_vs_humans.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Arena">
+    <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aliens_vs_humans.src.Arena" />
+      <module name="aliens_vs_humans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeingTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aliens_vs_humans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aliens_vs_humans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aliens_vs_humans.test.BeingTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArena" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aliens_vs_humans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aliens_vs_humans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aliens_vs_humans.test.TestArena" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHuman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="aliens_vs_humans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aliens_vs_humans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aliens_vs_humans.test.TestHuman" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true" show_console_on_std_out="true" repeat_count="10" repeat_mode="N Times">
+      <output_file path="testLog" is_save="true" />
+      <module name="aliens_vs_humans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.src.Power" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="com.aliens_vs_humans.src.Alien" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aliens_vs_humans.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aliens_vs_humans.test.TestPower" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Arena" />
+      <item itemvalue="JUnit.BeingTestSuite" />
+      <item itemvalue="JUnit.TestArena" />
+      <item itemvalue="JUnit.TestHuman" />
+      <item itemvalue="JUnit.TestPower" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Arena" />
+        <item itemvalue="JUnit.BeingTestSuite" />
+        <item itemvalue="JUnit.TestArena" />
+        <item itemvalue="JUnit.TestHuman" />
+        <item itemvalue="JUnit.TestPower" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,5 +179,39 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/aliens_vs_humans/test/TestArena.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/aliens_vs_humans/test/TestArena.java</url>
+          <line>360</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$TestAlien.ic" NAME="TestAlien Coverage Results" MODIFIED="1663558782374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aliens_vs_humans.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$BeingTestSuite.ic" NAME="BeingTestSuite Coverage Results" MODIFIED="1665966720467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aliens_vs_humans.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$TestPower.ic" NAME="TestPower Coverage Results" MODIFIED="1663555345954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aliens_vs_humans.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$TestBeing.ic" NAME="TestBeing Coverage Results" MODIFIED="1663558364654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aliens_vs_humans.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$TestArena.ic" NAME="TestArena Coverage Results" MODIFIED="1664762350045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.aliens_vs_humans.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/aliens_vs_humans$com_aliens_vs_humans_test_TestSuiteRunner.ic" NAME="com.aliens_vs_humans.test.TestSuiteRunner Coverage Results" MODIFIED="1662962955210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

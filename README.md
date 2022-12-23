@@ -19,6 +19,9 @@ I created this project for my portfolio as part of the Codecademy Intermediate J
 >- Implement your unique ideas and write JUnit Tests as code is added
 
 I based this project on a laser tag arena where I used to work. I developed this project with a red-green-refactor TDD approach, writing the test classes first, then the underlying code.
+<br/>
+
+![Animation showing white text scrolling on a black background](./assets/aliens-vs-humans.gif)
 
 ---
 ## Features
